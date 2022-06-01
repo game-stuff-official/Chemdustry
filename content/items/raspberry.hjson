@@ -1,3 +1,5 @@
+name Raspberry
+desc: A nice smelling fruit
 hardness: 1
 cost: 1
 research: spore-pod
